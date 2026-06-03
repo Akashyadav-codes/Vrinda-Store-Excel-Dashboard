@@ -79,8 +79,8 @@ This project presents an interactive Excel dashboard built using Vrinda Store's 
 ---
 
 ## 📷 Dashboard Preview
+<img width="1611" height="580" alt="Dashboard" src="https://github.com/user-attachments/assets/1b0b8883-117d-4e34-b11d-a581035dac74" />
 
-(Add dashboard screenshot here)
 
 ---
 
